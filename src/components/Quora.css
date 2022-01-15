@@ -1,0 +1,12 @@
+  .home_container{
+background-color: rgba(128, 128, 128, 0.137);
+  }
+  .quora__content{
+    display: flex;
+    box-sizing: initial;
+    width: 1202px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    align-items: stretch;
+  }
